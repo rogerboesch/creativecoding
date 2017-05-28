@@ -1,7 +1,7 @@
 # Creative Coding with Swift
-I created this code as part of the games i write at pixxelgames.com.
-It's an easy playground to test out common creative coding examples,
-know from Processing and/or p5.js.
+I created this code as part of the games i write at [pixxelgames.com](http://www.pixxelgames.com).
+It's a simple "playground" App to test out common creative coding examples,
+known from Processing and/or p5.js.
 
 1. Bouncing ball
 2. Simple padle
