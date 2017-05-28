@@ -2,7 +2,7 @@
 //  Example3.swift
 //  P7Canvas
 //
-//  Sand: Access the pixel buffer
+//  Falling Sand: Access the pixel buffer
 //
 //  Created by Roger Boesch on 24.05.17.
 //

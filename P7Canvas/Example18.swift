@@ -2,7 +2,7 @@
 //  Example18.swift
 //  P7Canvas
 //
-//  Crazy rings
+//  Crazy Rings
 //
 //  Created by Roger Boesch on 24.05.17.
 //
@@ -17,7 +17,7 @@ class Example18 : P7Program {
     // MARK: - Get program info
     
     func name() -> String {
-        return "Crazy rings"
+        return "Crazy Rings"
     }
     
     // -------------------------------------------------------------------------
